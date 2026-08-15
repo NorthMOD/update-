@@ -1,0 +1,8 @@
+{
+  "version": "2.1.0",
+  "offsets": {
+    "hackmap_setvisible": "0x1A2B3C",
+    "player_base":        "0x4D5E6F",
+    "entity_list":        "0x7A8B9C"
+  }
+}
